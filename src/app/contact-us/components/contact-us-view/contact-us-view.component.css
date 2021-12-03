@@ -1,0 +1,17 @@
+.background{
+    background-color: #292828;
+}
+.button{
+    background-color: #292828;
+    border: transparent;
+}
+i{
+    color: white;
+    
+}
+h2{
+    font-family: marion;
+}
+a {
+    background: transparent !important;
+}

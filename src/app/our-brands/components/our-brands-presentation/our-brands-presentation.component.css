@@ -1,0 +1,12 @@
+@media(min-width:100px){
+    .background{
+        background: #292828 !important;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        position: relative;
+        width: 100%;
+        height: calc(100%-100px);
+    }
+    
+}
